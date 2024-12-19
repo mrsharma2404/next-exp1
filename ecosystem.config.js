@@ -1,7 +1,7 @@
 module.exports = {
   apps: [
     {
-      name: "thrillophilia-next-exp-1",
+      name: "next-exp1",
       script: "npm start",
       args: "start",
       env: {
